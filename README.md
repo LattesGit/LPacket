@@ -80,4 +80,4 @@ This tool is a packet **analyzer** only. It does not include packet injection, A
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT see [LICENSE](LICENSE).
