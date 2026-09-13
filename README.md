@@ -14,11 +14,11 @@ A terminal based network packet analyzer inspired by Wireshark built with Python
 - Live stats: protocol distribution, top source/destination IPs, top ports
 - Save captures to `.pcap` and reload them later for offline analysis
 - IPv4 and IPv6 support
-- Single file, no external UI framework — just Python's standard `curses` and Scapy
+- Single file, no external UI framework just Python's standard `curses` and Scapy
 
 ## Requirements
 
-- Linux (primary target — relies on raw sockets and `curses`)
+- Linux (primary target relies on raw sockets and `curses`)
 - Python 3.8+
 - Root/sudo privileges for live capture (not required for `-r` pcap analysis)
 
